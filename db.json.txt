@@ -1,0 +1,19 @@
+[
+
+  {
+    "id": 68,
+    "nameRecipe": "Cachocolat",
+    "amount": "8 min",
+    "categoryRecipe": "sucrée",
+    "cookingTime": "40 min",
+    "preparationTime": "20 min",
+    "cookingEquipment": "four",
+    "ingredientRecipe": "[\"farine (135 grammes)\",\"beurre (125 grammes)\",\"œuf (4)\",\"levure \",\"chocolat (1 demi plaque)\",\"poire (3 poires conférence)\",\"noisettes en poudre (65 grammes)\",\"noisettes en éclats (une quinzaine de noisettes)\",\"sucre (100 grammes)\"]",
+    "preparationInstruction": "Un cake que je viude dans le plat, c’est déjà bien assez gras).\n\n Ajoutez ensuite à l’appareil ainsi créé les poires coupées en dés et le chocolat cassé en petits morceaux. \n\n Mélangez à nouveau.,,\n\n Préchauffez le four à 180°C, et enfournez pour 40 minutes à cette température.\n\n Attendez un peu avant de dévorer.",
+    "source": "https://cuisine-libre.fr/cake-poire-noisettes-chocolat",
+    "imageRecipe": "http://www.flickr.com/photos/shakottespictures/3397799957/",
+    "favorite": false,
+    "videoRecipe": ""
+  }
+
+]
